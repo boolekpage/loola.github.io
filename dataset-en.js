@@ -334,7 +334,7 @@ const DATASET_EN = [
       "what is the cost of dubyet"
     ],
     answers:[
-      "SMARTVER V1.5 costs 30 US$, SMARTVER ADVERTISING SCREEN costs 30 US$, while SMARTVER V1.6 AI costs 40 US$."
+      "SMARTVER with MIXBEEN costs 30 US$."
     ]
     },
     {intent:"price.solgroff",
