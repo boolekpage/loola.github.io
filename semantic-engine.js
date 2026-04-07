@@ -5,7 +5,7 @@
    (Multilingüe: el modelo MiniLM-L6-v2 soporta ES + EN nativamente)
 ============================================================= */
 
-import { pipeline, env } from 'https://github.com/boolekpage/loola.github.io/blob/b69d3406c127da57390efb07b40cfcf5c44a53ef/transformers.min.js';
+import { pipeline, env } from './transformers.min.js';
 
 env.localModelPath = './models/';
 env.allowRemoteModels = false;
