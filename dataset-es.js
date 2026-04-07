@@ -334,7 +334,7 @@ const DATASET_ES = [
       "cual es el costo de dubyet"
     ],
     answers:[
-      "SMARTVER V1.5 tiene un costo de 30 US$, SMARTVER ADVERTISING SCREEN cuesta 30 US$, mientras que SMARTVER V1.6 IA, cuesta 40 US$."
+      "DUBYET junto con MIXBEEN tienen un costo de 30 US$."
     ]
     },
     {intent:"precio.solgroff",
