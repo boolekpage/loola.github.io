@@ -258,7 +258,7 @@ const DATASET_ES = [
     "qué servicios ofrece smartver"
   ],
   answers: [
-    "Smartver es una herramienta ideal para salas de espera que puede ejecutarse en Windows de manera local. Integra la capacidad de transmitir su voz desde el micrófono de su PC o teléfono, puede informar mediante una voz sintetizada en cualquier idioma, y detectar objetos sospechosos con su módulo de cámara inteligente con IA. SMARTVER, incluye 2 aplicaciones móviles gratuitas para Android, una para manipular el software desde el teléfono y otra para usarse desde el SMART TV o el dispositivo que sirva de pantalla. Tambien existe SMARTVER ADVERTISING SCREEN, el cúal se enfoca en auncios publicitarios usando escenarios 3D muy llamativos. Inlcuso existe la versión de SMARTVER con IA, la cúal permite la transcripción de voz y traducción al idioma ingles y de ingles a español.",
+    "Smartver es una herramienta ideal para salas de espera que puede ejecutarse en Windows de manera local. Integra la capacidad de transmitir su voz desde el micrófono de su PC o teléfono, puede informar mediante una voz sintetizada en cualquier idioma, y detectar objetos sospechosos con su módulo de cámara inteligente con IA. SMARTVER, incluye 2 aplicaciones móviles gratuitas para Android, una para manipular el software desde el teléfono y otra para usarse desde el SMART TV o el dispositivo que sirva de pantalla. Tambien existe SMARTVER ADVERTISING SCREEN, el cúal se enfoca en anuncios publicitarios usando escenarios 3D muy llamativos. Incluso existe la versión de SMARTVER con IA, la cúal permite la transcripción de voz y traducción al idioma ingles y de ingles a español.",
   ]},
 
   {intent:"servicio.dubyet",
